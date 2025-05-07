@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flight Delay Data Pipeline (2024)
 
 This project implements a complete data pipeline for analyzing U.S. airline delay data for the year 2024. It covers data ingestion, transformation, storage in multiple formats, and integration with a NoSQL database. The pipeline was developed as part of a graduate-level course on big data systems and demonstrates practical applications of several course modules including virtualization, file formats, NoSQL, and data modeling.
