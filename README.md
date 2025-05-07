@@ -69,5 +69,3 @@ This project implements a complete data pipeline for analyzing U.S. airline dela
    jupyter lab
 4. Run the flight_delay_pipeline.ipynb Jupyter Notebook
 =======
-# flight-delay-analysis
->>>>>>> 78cdcbbffba427d806ff387aa579c9075bdf340f
